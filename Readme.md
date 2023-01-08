@@ -21,3 +21,4 @@
 ![Project Screenshot](https://img.shields.io/badge/LiveClass-Project--7-violet)
 
 ![LCO](./7.png)
+![wireless-headphone](https://user-images.githubusercontent.com/112545072/211178634-8f901b0f-b072-447e-97b6-4515becd687c.png)
