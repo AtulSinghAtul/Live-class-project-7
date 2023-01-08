@@ -1,6 +1,7 @@
 # Project-7
 
-[Live Link](https://ineuron-live-class-project-7.netlify.app/ "Netlify")
+- ## [Live Link](https://ineuron-live-class-project-7.netlify.app/ "Netlify")
+
 
 **Project is responsive**
 
